@@ -14,7 +14,7 @@ I'm a developer web. I'm studyng web developer at [Rocketseat](https://rocketsea
 
 #### Contacts
 - Email: alexsmarra@hotmail.com
-- Linkedin: https://www.linkedin.com/in/alexandre-simoes-marra-4932451b2/?locale=en_US
+- Linkedin: https://www.linkedin.com/in/alexandre-sim%C3%B5es-marra-4932451b2/?locale=en_US
 
 - 🔭 I’m javascript developer
 - 🌱 Skills: JavaScript, HTML, CSS, NodeJS, SQL, data structure, object-oriented programming and functional programming
