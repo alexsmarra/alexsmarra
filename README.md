@@ -1,18 +1,18 @@
 ### Hi there, I'm Alexandre Marra! 👋
 
 #### About
-I'm a developer web. I'm studyng web developer at [Rocketseat](https://rocketseat.com.br). 
+I'm a software engineer.  
 
 #### Current Stack
-- Main Language: `Javascript`
+- Main Language: `C, Java, Javascript`
 - Backend: `Nodejs`
-- Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- Frontend: `Reactjs`
 - Layout Design: `Figma`
 - Version Code Control: `Git` & `Github`
 - Tools: `VSCode`
 - I'm mostly active in the `Rocketseat community`
 
 #### Contacts
-- 📨 Email: alexsmarra@hotmail.com
-- 👤 Linkedin: https://www.linkedin.com/in/alexandre-sim%C3%B5es-marra-4932451b2/?locale=en_US
+- 📨 Email: alexsmarra87@gmail.com
+- 👤 Linkedin: www.linkedin.com/in/alexandresmarra
 
